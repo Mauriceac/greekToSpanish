@@ -1,0 +1,11 @@
+.env
+/temp
+/node_modules
+/output
+/texts
+/.venv
+/chapters
+
+.DS_Store
+
+package-lock.json
